@@ -1,9 +1,7 @@
 
 ================
 
-
-Calcula o valor de PI usando a técnica de Buffon usando CUDA.
-
+faiz calculos simples usando todos os tipos de sinais
 
 ----
 
@@ -13,25 +11,19 @@ Compilação
 Efetuar a compilação do código-fonte:
 
 
-        $ make 
+        $ python3 damanta.py 
 
 
 ----
 
 Uso 
 ---
-Executar com a opção help:
 
-
-        $ ./cubuffon -h
-
+executar para realizar conta
 
 ----
 
 Exemplos
---------
+-------- 
 
-Lança uma agulha de tamanho 1 1000 vezes usando 1 bloco de tamanho 256: 
-
-
-        $ buffon -n 1000 -l 1 -b 256 -x 1
+1 + 1 = 2
