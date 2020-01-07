@@ -1,4 +1,4 @@
-
+fatoraçao
 ================
 
 pega um numero e separa ele em impar e par
