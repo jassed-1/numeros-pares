@@ -5,10 +5,10 @@ pega um numero e separa ele em impar e par
 
 ----
 
-Compilação
+Executar
 ----------
 
-Efetuar a compilação do código-fonte:
+Efetuar a Execucão do código-fonte:
 
 
         $ python3 p
