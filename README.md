@@ -19,7 +19,7 @@ Executar
 Uso 
 ---
 
-Executar para realizar a fatoração e separação de numeros impares e pares
+        Executar para realizar a fatoração e separação de numeros impares e pares
 
 ----
 
