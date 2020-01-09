@@ -1,14 +1,14 @@
 fatoraçao
 ================
 
-pega um numero e separa ele em impar e par
+       pega um numero e separa ele em impar e par
 
 ----
 
 Executar
 ----------
 
-Efetuar a Execucão do código-fonte:
+       Efetuar a execução do código-fonte:
 
 
         $ python3 p
@@ -19,7 +19,7 @@ Efetuar a Execucão do código-fonte:
 Uso 
 ---
 
-executar para realizar a fatoraçao e separaçao de numeros impares e pares
+Executar para realizar a fatoração e separação de numeros impares e pares
 
 ----
 
